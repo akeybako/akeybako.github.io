@@ -1,3 +1,3 @@
-# Akeybako.github.io
+# akeybako.github.io
 
-このプロジェクトでは[Ohagi](https://github.com/akeybako)のGithub Pagesを管理しています。
+This project manages the GitHub Pages for [Ohagi](https://github.com/akeybako).
